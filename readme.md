@@ -6,7 +6,7 @@ https://snazzymaps.com/
 Dependencies
 ==============
 This project has the following dependencies, which should be installed using NuGet.
-- OpenTK:
+OpenTK:
 --------------
 	A library for .NET that implements OpenGL. This is mainly just for testing out core functionality in Visual Studio.
 
@@ -16,7 +16,7 @@ This project has the following dependencies, which should be installed using NuG
 	More information can be found here:
 		- https://github.com/opentk/opentk
 
-- Google Maps API for .NET:
+Google Maps API for .NET:
 --------------
 	A library for .NET that allows an OOP approach to accessing Google Maps data. It allows the developer to more easily
 	create and work with web data sent back and forth with the Google servers.
@@ -27,7 +27,7 @@ This project has the following dependencies, which should be installed using NuG
 	More information can be found here:
 		- https://github.com/ericnewton76/gmaps-api-net
 
-- Json.NET:
+Json.NET:
 --------------
 	A library for both encoding and decoding JSON strings.
 
