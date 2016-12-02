@@ -1,7 +1,9 @@
-﻿SnazzyMap
+Formatting
 ==============
-This map system allows formatting to be used, and downloaded from a web service. Use SnazzyMap to create the style files:
-https://snazzymaps.com/
+If it is desired, the map can be augmented by passing an external style sheet formatted in JSON. Websites for generating such a style sheet can be found here:
+- https://snazzymaps.com/
+- https://mapstyle.withgoogle.com/
+- http://www.mapstylr.com/map-style-editor/
 
 Dependencies
 ==============
