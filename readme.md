@@ -1,6 +1,6 @@
 Formatting
 ==============
-If it is desired, the map can be augmented by passing an external style sheet formatted in JSON. Websites for generating such a style sheet can be found here:
+If it is desired, the map can be styled by passing an external style sheet formatted in JSON. Websites for generating such a style sheet can be found here:
 - https://snazzymaps.com/
 - https://mapstyle.withgoogle.com/
 - http://www.mapstylr.com/map-style-editor/
